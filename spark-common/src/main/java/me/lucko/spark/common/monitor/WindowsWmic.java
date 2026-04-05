@@ -31,6 +31,7 @@ import java.util.List;
 /**
  * Utility for reading from wmic (Windows Management Instrumentation Commandline) on Windows systems.
  */
+@Deprecated
 public enum WindowsWmic {
 
     /**
